@@ -1,0 +1,14 @@
+## Project 1: House Price Estimation
+
+**Overview:**
+In this project, I've developed a machine learning model to predict house prices using linear regression. The Jupyter notebook contains the following key components:
+- Data Preprocessing
+- Data Visualization
+- Conversion of Categorical Features to Numeric
+- Min-Max Scaling of Numeric Features
+- Data Splitting (Train-Test)
+- Model Building (Linear Regression)
+- Evaluation Metrics Calculation
+- Making Predictions on New Data
+
+The code for this project is available in the House Price Prediction.ipynb file.
